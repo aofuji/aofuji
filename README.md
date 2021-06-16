@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Andre Ofuji 👋
 
+- 🌱 I’m currently learning everything 🤣
+- ⚡ Fun fact: I love to draw and play guitar
 <!--
 **aofuji/aofuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
