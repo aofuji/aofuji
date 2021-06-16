@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to draw and play guitar
-- ## I'm a Husband and Developer!!
+- ## I'm Front-end Developer!!
 
 ### Languages and Tools:
 
