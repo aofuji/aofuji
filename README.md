@@ -1,6 +1,6 @@
-### Hi there, I'm Andre Ofuji 👋
+### Hi there, I'm Andre Ofuji 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - ⚡ Fun fact: I love to draw and play guitar
 - ## I'm Front-end Developer!!
 
