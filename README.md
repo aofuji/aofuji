@@ -1,7 +1,7 @@
 ### Hi there, I'm Andre Ofuji 
 
-- 🌱 I’m currently learning everything 
-- ⚡ Fun fact: I love to draw and play guitar
+- I’m currently learning everything 
+- Fun fact: I love to draw and play guitar
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aofuji&show_icons=true&theme=dark)
 
