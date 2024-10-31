@@ -3,7 +3,7 @@
 - I’m currently learning everything 
 - Fun fact: I love to draw and play guitar
 ## About me
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/andr%C3%A9-o-b9328131/))
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andr%C3%A9-o-b9328131/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aofuji&show_icons=true&theme=dark)
 
