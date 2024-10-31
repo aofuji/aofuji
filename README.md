@@ -7,6 +7,8 @@ Software developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aofuji&show_icons=true&theme=dark)
 
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aofuji&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)  
+
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
