@@ -2,7 +2,8 @@
 
 - 🌱 I’m currently learning everything 
 - ⚡ Fun fact: I love to draw and play guitar
-- ## I'm Front-end Developer!!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 ### Languages and Tools:
 
