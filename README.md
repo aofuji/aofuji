@@ -3,7 +3,7 @@
 - I’m currently learning everything 
 - Fun fact: I love to draw and play guitar
 ## About me
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aofuji&show_icons=true&theme=dark)
 
