@@ -5,7 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aofuji&show_icons=true&theme=dark)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aofuji)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aofuji)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Languages and Tools:
 
