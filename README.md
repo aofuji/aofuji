@@ -1,5 +1,5 @@
 ### Hi there, I'm Andre Ofuji 
-
+- Software engineering
 - I’m currently learning everything 
 - Fun fact: I love to draw and play guitar
 ## About me
